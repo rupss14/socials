@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "391915454609",
+    "project_id": "socials-ea60f",
+    "storage_bucket": "socials-ea60f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391915454609:android:10c2e269ef958723ddbf30",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKqNeVF2u4svPoUVWXVdLKARAfBySga7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
